@@ -1,1 +1,1 @@
-# Welcome t0 Warehouse!
+# Welcome to Warehouse!
